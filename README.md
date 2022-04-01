@@ -82,6 +82,7 @@ Para ficar ao lado do título, é necessário encapsular a imagem dentro da tag 
 | <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/b719c0f5-6bbf-4aea-b53b-a94da146d584/darvwe8-3d02f7d3-78e7-4e3c-a970-3dc77745a64a.gif" alt="jake andando nas costas do finn" width="200px"> | [me copia](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/b719c0f5-6bbf-4aea-b53b-a94da146d584/darvwe8-3d02f7d3-78e7-4e3c-a970-3dc77745a64a.gif) |
 | <img src="https://media.giphy.com/media/2teLgVuJAxtks/giphy.gif" alt="pixel art jake latindo 'dog'" width="200px"> | [me copia](https://media.giphy.com/media/2teLgVuJAxtks/giphy.gif)|
 | <img src="https://img-lb.fireden.net/co/image/1520/80/1520806366055.gif" alt="geleia sorrindo" width="200px"> | [me copia](https://img-lb.fireden.net/co/image/1520/80/1520806366055.gif)|
+| <img src="https://imgs.developpaper.com/imgs/2022-03-04-13-38-32-yn4t0hhpmz2.gif" alt="panda dizendo wow" width="200px"> | [me copia](https://imgs.developpaper.com/imgs/2022-03-04-13-38-32-yn4t0hhpmz2.gif) |
 
 Utilize o padrão abaixo para inserir mais gifs
 
